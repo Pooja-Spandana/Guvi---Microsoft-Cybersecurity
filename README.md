@@ -5,7 +5,7 @@
 - **False Positive (FP)**  
 - **True Positive (TP)**  
 
-Developed as part of the **Guvi - Microsoft Cybersecurity Certification**, this project leverages real-world large-scale security event data (~4M+ records) to automate incident triage and reduce manual analyst workload.
+This project leverages real-world large-scale security event data (~4M+ records) to automate incident triage and reduce manual analyst workload.
 
 ---
 
