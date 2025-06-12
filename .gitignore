@@ -176,5 +176,5 @@ cython_debug/
 # exclude data from source control by default
 /Data/
 
-# Excluding models
-/Models/
+# exclude pkls
+/Pickles/
